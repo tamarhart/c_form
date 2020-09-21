@@ -1,0 +1,58 @@
+C:\Users\student\Source\Repos\הפרוייקט של תמי\הפרוייקט של תמי\bin\Debug\הפרוייקט של תמי.exe.config
+C:\Users\student\Source\Repos\הפרוייקט של תמי\הפרוייקט של תמי\bin\Debug\הפרוייקט של תמי.exe
+C:\Users\student\Source\Repos\הפרוייקט של תמי\הפרוייקט של תמי\bin\Debug\הפרוייקט של תמי.pdb
+C:\Users\student\Source\Repos\הפרוייקט של תמי\הפרוייקט של תמי\obj\Debug\הפרוייקט של תמי.csprojAssemblyReference.cache
+C:\Users\student\Source\Repos\הפרוייקט של תמי\הפרוייקט של תמי\obj\Debug\הפרוייקט_של_תמי.Properties.Resources.resources
+C:\Users\student\Source\Repos\הפרוייקט של תמי\הפרוייקט של תמי\obj\Debug\הפרוייקט של תמי.csproj.GenerateResource.cache
+C:\Users\student\Source\Repos\הפרוייקט של תמי\הפרוייקט של תמי\obj\Debug\הפרוייקט של תמי.csproj.CoreCompileInputs.cache
+C:\Users\student\Source\Repos\הפרוייקט של תמי\הפרוייקט של תמי\obj\Debug\הפרוייקט של תמי.exe
+C:\Users\student\Source\Repos\הפרוייקט של תמי\הפרוייקט של תמי\obj\Debug\הפרוייקט של תמי.pdb
+C:\Users\student\Source\Repos\הפרוייקט של תמי\הפרוייקט של תמי\obj\Debug\הפרוייקט_של_תמי.clients.addclient.resources
+F:\פרויקטטט\הפרוייקט של תמי\הפרוייקט של תמי\obj\Debug\הפרוייקט של תמי.csprojAssemblyReference.cache
+F:\פרויקטטט\הפרוייקט של תמי\הפרוייקט של תמי\obj\Debug\הפרוייקט_של_תמי.clients.addclient.resources
+F:\פרויקטטט\הפרוייקט של תמי\הפרוייקט של תמי\obj\Debug\הפרוייקט_של_תמי.Form1.resources
+F:\פרויקטטט\הפרוייקט של תמי\הפרוייקט של תמי\obj\Debug\הפרוייקט_של_תמי.Properties.Resources.resources
+F:\פרויקטטט\הפרוייקט של תמי\הפרוייקט של תמי\obj\Debug\הפרוייקט של תמי.csproj.GenerateResource.cache
+F:\פרויקטטט\הפרוייקט של תמי\הפרוייקט של תמי\obj\Debug\הפרוייקט של תמי.exe
+F:\פרויקטטט\הפרוייקט של תמי\הפרוייקט של תמי\obj\Debug\הפרוייקט של תמי.pdb
+F:\פרויקטטט\הפרוייקט של תמי\הפרוייקט של תמי\bin\Debug\הפרוייקט של תמי.exe.config
+F:\פרויקטטט\הפרוייקט של תמי\הפרוייקט של תמי\bin\Debug\הפרוייקט של תמי.exe
+F:\פרויקטטט\הפרוייקט של תמי\הפרוייקט של תמי\bin\Debug\הפרוייקט של תמי.pdb
+F:\פרויקטטט\הפרוייקט של תמי\הפרוייקט של תמי\obj\Debug\הפרוייקט_של_תמי.salaryworker.resources
+F:\פרויקטטט\הפרוייקט של תמי\הפרוייקט של תמי\obj\Debug\הפרוייקט_של_תמי.workers.addwarker.resources
+F:\פרויקטטט\הפרוייקט של תמי\הפרוייקט של תמי\obj\Debug\הפרוייקט_של_תמי.shows.addshow.resources
+F:\פרויקטטט\הפרוייקט של תמי\הפרוייקט של תמי\obj\Debug\הפרוייקט_של_תמי.halls.addhall.resources
+F:\פרויקטטט\הפרוייקט של תמי\הפרוייקט של תמי\obj\Debug\הפרוייקט_של_תמי.halls.addplay.resources
+F:\פרויקטטט\הפרוייקט של תמי\הפרוייקט של תמי\obj\Debug\הפרוייקט_של_תמי.addorder.resources
+E:\פרויקטטט\הפרוייקט של תמי\הפרוייקט של תמי\bin\Debug\הפרוייקט של תמי.exe.config
+E:\פרויקטטט\הפרוייקט של תמי\הפרוייקט של תמי\bin\Debug\הפרוייקט של תמי.exe
+E:\פרויקטטט\הפרוייקט של תמי\הפרוייקט של תמי\bin\Debug\הפרוייקט של תמי.pdb
+E:\פרויקטטט\הפרוייקט של תמי\הפרוייקט של תמי\obj\Debug\הפרוייקט של תמי.csprojAssemblyReference.cache
+E:\פרויקטטט\הפרוייקט של תמי\הפרוייקט של תמי\obj\Debug\הפרוייקט_של_תמי.addorder.resources
+E:\פרויקטטט\הפרוייקט של תמי\הפרוייקט של תמי\obj\Debug\הפרוייקט_של_תמי.clients.addclient.resources
+E:\פרויקטטט\הפרוייקט של תמי\הפרוייקט של תמי\obj\Debug\הפרוייקט_של_תמי.Form1.resources
+E:\פרויקטטט\הפרוייקט של תמי\הפרוייקט של תמי\obj\Debug\הפרוייקט_של_תמי.halls.addhall.resources
+E:\פרויקטטט\הפרוייקט של תמי\הפרוייקט של תמי\obj\Debug\הפרוייקט_של_תמי.halls.addplay.resources
+E:\פרויקטטט\הפרוייקט של תמי\הפרוייקט של תמי\obj\Debug\הפרוייקט_של_תמי.Properties.Resources.resources
+E:\פרויקטטט\הפרוייקט של תמי\הפרוייקט של תמי\obj\Debug\הפרוייקט_של_תמי.salaryworker.resources
+E:\פרויקטטט\הפרוייקט של תמי\הפרוייקט של תמי\obj\Debug\הפרוייקט_של_תמי.shows.addshow.resources
+E:\פרויקטטט\הפרוייקט של תמי\הפרוייקט של תמי\obj\Debug\הפרוייקט_של_תמי.workers.addwarker.resources
+E:\פרויקטטט\הפרוייקט של תמי\הפרוייקט של תמי\obj\Debug\הפרוייקט של תמי.csproj.GenerateResource.cache
+E:\פרויקטטט\הפרוייקט של תמי\הפרוייקט של תמי\obj\Debug\הפרוייקט של תמי.exe
+E:\פרויקטטט\הפרוייקט של תמי\הפרוייקט של תמי\obj\Debug\הפרוייקט של תמי.pdb
+H:\פרויקטטט\הפרוייקט של תמי\הפרוייקט של תמי\bin\Debug\הפרוייקט של תמי.exe.config
+H:\פרויקטטט\הפרוייקט של תמי\הפרוייקט של תמי\bin\Debug\הפרוייקט של תמי.exe
+H:\פרויקטטט\הפרוייקט של תמי\הפרוייקט של תמי\bin\Debug\הפרוייקט של תמי.pdb
+H:\פרויקטטט\הפרוייקט של תמי\הפרוייקט של תמי\obj\Debug\הפרוייקט של תמי.csprojAssemblyReference.cache
+H:\פרויקטטט\הפרוייקט של תמי\הפרוייקט של תמי\obj\Debug\הפרוייקט_של_תמי.addorder.resources
+H:\פרויקטטט\הפרוייקט של תמי\הפרוייקט של תמי\obj\Debug\הפרוייקט_של_תמי.clients.addclient.resources
+H:\פרויקטטט\הפרוייקט של תמי\הפרוייקט של תמי\obj\Debug\הפרוייקט_של_תמי.Form1.resources
+H:\פרויקטטט\הפרוייקט של תמי\הפרוייקט של תמי\obj\Debug\הפרוייקט_של_תמי.halls.addhall.resources
+H:\פרויקטטט\הפרוייקט של תמי\הפרוייקט של תמי\obj\Debug\הפרוייקט_של_תמי.halls.addplay.resources
+H:\פרויקטטט\הפרוייקט של תמי\הפרוייקט של תמי\obj\Debug\הפרוייקט_של_תמי.Properties.Resources.resources
+H:\פרויקטטט\הפרוייקט של תמי\הפרוייקט של תמי\obj\Debug\הפרוייקט_של_תמי.salaryworker.resources
+H:\פרויקטטט\הפרוייקט של תמי\הפרוייקט של תמי\obj\Debug\הפרוייקט_של_תמי.shows.addshow.resources
+H:\פרויקטטט\הפרוייקט של תמי\הפרוייקט של תמי\obj\Debug\הפרוייקט_של_תמי.workers.addwarker.resources
+H:\פרויקטטט\הפרוייקט של תמי\הפרוייקט של תמי\obj\Debug\הפרוייקט של תמי.csproj.GenerateResource.cache
+H:\פרויקטטט\הפרוייקט של תמי\הפרוייקט של תמי\obj\Debug\הפרוייקט של תמי.exe
+H:\פרויקטטט\הפרוייקט של תמי\הפרוייקט של תמי\obj\Debug\הפרוייקט של תמי.pdb
